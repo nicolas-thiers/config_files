@@ -1,0 +1,11 @@
+-- Settings Controller
+require('plugins/packer')
+require('plugins/config/languageTool')
+require('plugins/config/rainbow')
+require('plugins/config/nerdTree')
+require('plugins/config/indentLine')
+require('plugins/config/vimTex')
+require('plugins/config/tagBar')
+require('plugins/config/airline')
+require('plugins/config/dashboard')
+require('plugins/config/fzf')
